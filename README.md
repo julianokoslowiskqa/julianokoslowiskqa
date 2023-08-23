@@ -14,4 +14,13 @@ Desde 2012 atuo na área de testes de software, sou bacharel em sistema de infor
 <a href="https://www.selenium.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Logo">
 </a>
- 
+ <a href="https://www.cypress.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress Logo">
+</a>
+<a href="https://www.oracle.com/database/" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL Logo">
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Logo">
+</a>
+

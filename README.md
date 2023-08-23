@@ -3,7 +3,7 @@
 <img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
 
 # Olá! Sou Juliano Koslowisk!👋
-## 👩‍💻 Senior QA Engineer
+## 👩‍💻 QA Engineer
 
 Desde 2012 atuo na área de testes de software, sou bacharel em sistema de informação, certificada CTFL-Certified Tester Foundation Level  Tenho experiência com testes manuais, automatizados de desktop, web, APIs, estou em constrante aprendizado e busco cada vez mais aprimorar as habilidades técnicas e pessoais.
 

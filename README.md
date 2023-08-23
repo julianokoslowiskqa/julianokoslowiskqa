@@ -23,4 +23,7 @@ Desde 2012 atuo na área de testes de software, sou bacharel em sistema de infor
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Logo">
 </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server Logo">
+</a>
 

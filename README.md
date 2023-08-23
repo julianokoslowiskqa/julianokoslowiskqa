@@ -11,31 +11,30 @@ Desde 2012 atuo na área de testes de software, sou bacharel em sistema de infor
 
 
 ## 💻 Tecnologias
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Logos de Tecnologia</title>
+    <title>Logos</title>
 </head>
 <body>
-    <h1>Logos de Tecnologia</h1>
+    <h1>Logos</h1>
+    
+    <h2>Test Automation</h2>
+    <a href="https://www.selenium.dev/" target="_blank">
+        <img src="https://www.selenium.dev/images/selenium-logo.png" alt="Selenium Logo" width="150">
+    </a>
+    <a href="https://www.cypress.io/" target="_blank">
+        <img src="https://docs.cypress.io/img/favicon.ico" alt="Cypress Logo" width="150">
+    </a>
 
-    <h2>Automação de Testes</h2>
-    <a href="https://www.selenium.dev/">
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_selenium_icon_130692.png" alt="Selenium" width="100">
+    <h2>Databases</h2>
+    <a href="https://www.oracle.com/database/" target="_blank">
+        <img src="https://www.oracle.com/favicon.ico" alt="Oracle Database Logo" width="150">
     </a>
-    <a href="https://www.cypress.io/">
-        <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" alt="Cypress" width="100">
-    </a>
-
-    <h2>Bancos de Dados SQL</h2>
-    <a href="https://www.oracle.com/database/">
-        <img src="https://logodownload.org/wp-content/uploads/2016/10/oracle-logo.png" alt="Oracle" width="100">
-    </a>
-    <a href="https://www.postgresql.org/">
-        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="100">
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://www.postgresql.org/favicon.ico" alt="PostgreSQL Logo" width="150">
     </a>
 </body>
 </html>

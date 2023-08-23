@@ -11,30 +11,7 @@ Desde 2012 atuo na área de testes de software, sou bacharel em sistema de infor
 
 
 ## 💻 Tecnologias
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Logos</title>
-</head>
-<body>
-    <h1>Logos</h1>
-    
-    <h2>Test Automation</h2>
-    <a href="https://www.selenium.dev/" target="_blank">
-        <img src="https://www.selenium.dev/images/selenium-logo.png" alt="Selenium Logo" width="150">
-    </a>
-    <a href="https://www.cypress.io/" target="_blank">
-        <img src="https://docs.cypress.io/img/favicon.ico" alt="Cypress Logo" width="150">
-    </a>
-
-    <h2>Databases</h2>
-    <a href="https://www.oracle.com/database/" target="_blank">
-        <img src="https://www.oracle.com/favicon.ico" alt="Oracle Database Logo" width="150">
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://www.postgresql.org/favicon.ico" alt="PostgreSQL Logo" width="150">
-    </a>
-</body>
-</html>
+<a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Logo">
+</a>
+ 

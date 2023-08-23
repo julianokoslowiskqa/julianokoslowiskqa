@@ -12,4 +12,30 @@ Desde 2012 atuo na área de testes de software, sou bacharel em sistema de infor
 
 ## 💻 Tecnologias
 
-<p align="left"> <a href="https://g.co/kgs/jkd6Ga" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="robot framework" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/pt/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>  </a> </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logos de Tecnologia</title>
+</head>
+<body>
+    <h1>Logos de Tecnologia</h1>
+
+    <h2>Automação de Testes</h2>
+    <a href="https://www.selenium.dev/">
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_selenium_icon_130692.png" alt="Selenium" width="100">
+    </a>
+    <a href="https://www.cypress.io/">
+        <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" alt="Cypress" width="100">
+    </a>
+
+    <h2>Bancos de Dados SQL</h2>
+    <a href="https://www.oracle.com/database/">
+        <img src="https://logodownload.org/wp-content/uploads/2016/10/oracle-logo.png" alt="Oracle" width="100">
+    </a>
+    <a href="https://www.postgresql.org/">
+        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="100">
+    </a>
+</body>
+</html>
